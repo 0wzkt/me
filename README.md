@@ -18,8 +18,8 @@ Soy un desarrollador con **experiencia en Java** y **en proceso de aprendizaje d
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📌 Proyectos Destacados  
-🔹 **[Wardify](https://github.com/0wzkt/wardify)** - Proyecto en el que estoy realizando mi práctica, enfocado en el desarrollo backend.  
-🔹 **[HazelMC](https://github.com/0wzkt/HazelMC)** - Desarrollo de plugins para la network **HazelMC**.  
+🔹 **[Wardify](https://github.com/ZiskoDiaz)** - Proyecto en el que estoy realizando mi práctica, enfocado en el desarrollo backend.  
+🔹 **[HazelMC](https://github.com/VelixGames)** - Desarrollo de plugins para la network **HazelMC**.  
 
 ## 📈 Estadísticas de GitHub  
 
@@ -28,5 +28,5 @@ Soy un desarrollador con **experiencia en Java** y **en proceso de aprendizaje d
 </p>
 
 ## 📫 Contáctame  
-📧 **Correo:** [sebvvblessed@example.com](mailto:sebvvblessed@gmail.com)  
+📧 **Correo:** [sebvvblessed@gmail.com](mailto:sebvvblessed@gmail.com)  
 🐙 **GitHub:** [github.com/0wzkt](https://github.com/0wzkt)  

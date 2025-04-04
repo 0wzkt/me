@@ -16,7 +16,6 @@ Soy un desarrollador con **experiencia en Java** y **en proceso de aprendizaje d
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PHP](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) **APRENDIENDO**
 
 ## 📌 Proyectos Destacados  
 🔹 **[Wardify](https://github.com/0wzkt/wardify)** - Proyecto en el que estoy realizando mi práctica, enfocado en el desarrollo backend.  

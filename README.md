@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [wzkt]  
+# 👋 ¡Hola! Soy wzkt
 
 Soy un desarrollador con **experiencia en Java** y **en proceso de aprendizaje de Kotlin**. Aunque soy relativamente nuevo con Kotlin, ya tengo experiencia trabajando con él y lo manejo de manera intermedia. Me especializo en el **backend** y tengo experiencia trabajando con **MySQL** y **MongoDB**. Actualmente, estoy realizando mi práctica en el proyecto **Wardify** y también ayudo en el desarrollo de **plugins** para una network llamada **HazelMC**. 🚀  
 
